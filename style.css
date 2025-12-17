@@ -6,7 +6,7 @@
 
 .container {
     margin: 30px auto;
-    background-color: aquamarine;
+    background-color: pink;
     width: 400px;
     padding: 1px;
 }
@@ -14,4 +14,13 @@
 .form>form>.input {
     text-align: center;
     margin: 10px auto;
+}
+
+body {
+    background-image: url(./heartbg.png);
+    background-size: 5%;
+}
+
+.bgblue {
+    background-color: blue;
 }
