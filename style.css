@@ -6,7 +6,7 @@
 
 .container {
     margin: 30px auto;
-    background-color: pink;
+    background-color: rgba(255, 192, 203, 0.176);
     width: 400px;
     padding: 1px;
 }
@@ -22,5 +22,5 @@ body {
 }
 
 .bgblue {
-    background-color: blue;
+    background-color: rgb(140, 140, 255);
 }
