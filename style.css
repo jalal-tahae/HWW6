@@ -11,7 +11,7 @@
     padding: 1px;
 }
 
-.form>form>.input {
+#form>form>.input {
     text-align: center;
     margin: 10px auto;
 }
